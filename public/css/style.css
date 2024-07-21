@@ -126,7 +126,7 @@ span{
 }
 /*hero-section*/
 .hero-section{
-    background-image: url(heroimg2.jpg);
+    background-image: url(../assets/heroimg2.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
